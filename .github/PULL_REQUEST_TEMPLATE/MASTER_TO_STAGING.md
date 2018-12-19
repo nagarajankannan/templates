@@ -8,6 +8,6 @@
 - NIL
 
 #### PRs covered:
-| PR Description | Pull Request Link | Pivotal Story Link
+| Pull Request Description | Pull Request Link | Pivotal Story Link
 | --- | --- | -- |
 | | | |
